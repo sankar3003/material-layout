@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "materila-layout"
+    }
+  },
+  "defaultProject": "materila-layout",
+  "cli": {
+    "analytics": "ce8294fa-05fd-4d34-b290-dc4682a7215b"
+  }
 }
